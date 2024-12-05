@@ -26,7 +26,7 @@ I'm an aspiring **Data Analyst** with a passion for turning data into actionable
 - Deepening my knowledge of advanced Excel and Power BI features.
 
 ## 📫 How to reach me
-+ **LinkedIn**: https://www.linkedin.com/in/joyeta-pal-b9759ab5/
++ **LinkedIn**: https://www.linkedin.com/in/joyeta-pal/
 + **Email**: joyeta12@gmail.com
 
 ## 🤝 Let's connect!
