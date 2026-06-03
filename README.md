@@ -1,12 +1,29 @@
 # 👋 Hello, I'm Joyeta Pal!
 
+I'm a **Business Intelligence Analyst at CBRE** with a passion for transforming raw data into actionable insights that help solve real-world business problems.
 
-I'm an aspiring **Data Analyst** with a passion for turning data into actionable insights. My toolkit includes:
+### What I Do
 
-- **Excel**: Advanced dynamic formulas, Power Query, Power Pivot, DAX, ETL, pivot tables, scenario planning, and more.
-- **Power BI**: Designing interactive dashboards and reports, data modeling, and advanced visualization techniques.
-- **SQL**: Writing complex queries to extract, transform, and analyze data from relational databases.
-- **Python**: Automating data tasks, data cleaning, and leveraging libraries like Pandas, NumPy for data analysis.
+* Gather and integrate data from multiple sources, standardize it, and build meaningful analytics solutions for stakeholders.
+* Design and develop interactive dashboards and reports that support data-driven decision-making.
+* Build and optimize data pipelines using Azure technologies while monitoring and maintaining scheduled workflows.
+
+### What I'm Learning
+
+* Expanding my expertise in data engineering and cloud technologies.
+* Developing scalable and efficient data solutions.
+* Working toward becoming a **Full-Stack Developer**.
+
+### Fun Fact
+
+The quickest way to give me anxiety:😆
+
+* Numbers not matching in a dashboard.
+* Stale or outdated data.
+
+### Current Goal
+
+🚀 Continuously learning, building, and growing toward becoming a full-stack developer while leveraging data to create impactful solutions.
 
 ---
 
@@ -20,10 +37,6 @@ I'm an aspiring **Data Analyst** with a passion for turning data into actionable
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
-## 🌱 What I'm currently working on
-- Developing projects to showcase my data analysis skills.
-- Deepening my knowledge of advanced Excel and Power BI features.
 
 ## 📫 How to reach me
 + **LinkedIn**: https://www.linkedin.com/in/joyeta-pal/
